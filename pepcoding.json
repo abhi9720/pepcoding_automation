@@ -1,0 +1,460 @@
+{
+    "print-z-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/print-z-official/ojquestion",
+        "submissions": [
+            {
+                "date": "19-10-2021",
+                "score": "0"
+            },
+            {
+                "date": "03-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "grading-system-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/grading-system-official/ojquestion",
+        "submissions": [
+            {
+                "date": "03-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "is-number-prime-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/is-number-prime-official/ojquestion",
+        "submissions": [
+            {
+                "date": "21-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "06-09-2021",
+                "score": "2"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "6"
+            }
+        ]
+    },
+    "print-all-primes-till-n-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/print-all-primes-till-n-official/ojquestion",
+        "submissions": [
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "fibonacci-till-n-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/fibonacci-till-n-official/ojquestion",
+        "submissions": [
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "count-digits-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/count-digits-official/ojquestion",
+        "submissions": [
+            {
+                "date": "05-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "digits-of-a-number-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/digits-of-a-number-official/ojquestion",
+        "submissions": [
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "8.3"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "8.3"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "8.3"
+            },
+            {
+                "date": "05-09-2021",
+                "score": "8.3"
+            }
+        ]
+    },
+    "reverse-a-number-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/reverse-a-number-official/ojquestion",
+        "submissions": [
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "inverse-of-a-number-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/inverse-of-a-number-official/ojquestion",
+        "submissions": [
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "rotate-a-number-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/rotate-a-number-official/ojquestion",
+        "submissions": [
+            {
+                "date": "08-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "06-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "06-09-2021",
+                "score": "8.3"
+            },
+            {
+                "date": "06-09-2021",
+                "score": "8.3"
+            }
+        ]
+    },
+    "gcd-and-lcm-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/gcd-and-lcm-official/ojquestion",
+        "submissions": [
+            {
+                "date": "08-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "prime-factorization-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/prime-factorization-official/ojquestion",
+        "submissions": [
+            {
+                "date": "08-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "pythagorean-triplet-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/pythagorean-triplet-official/ojquestion",
+        "submissions": [
+            {
+                "date": "08-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "benjamin-bulbs-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/benjamin-bulbs-official/ojquestion",
+        "submissions": [
+            {
+                "date": "08-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "complex_queries": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/complex_queries/ojquestion",
+        "submissions": []
+    },
+    "largest_number": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/largest_number/ojquestion",
+        "submissions": []
+    },
+    "inverse-of-a-number-ltor-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/inverse-of-a-number-ltor-official/ojquestion",
+        "submissions": []
+    },
+    "pattern-type-1-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-1-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "pattern-type-2-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-2-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "pattern-type-3-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-3-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "pattern-type-4-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-4-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "pattern-type-5-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-5-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-6-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-6-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-7-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-7-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "0"
+            }
+        ]
+    },
+    "design-pattern-8-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-8-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-9-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-9-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-10-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-10-official/ojquestion",
+        "submissions": [
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "0"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-11-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-11-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-12-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-12-official/ojquestion",
+        "submissions": [
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-13-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-13-official/ojquestion",
+        "submissions": [
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "09-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-14-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-14-official/ojquestion",
+        "submissions": [
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "0"
+            }
+        ]
+    },
+    "design-pattern-15-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-15-official/ojquestion",
+        "submissions": [
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "4"
+            }
+        ]
+    },
+    "design-pattern-16-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-16-official/ojquestion",
+        "submissions": [
+            {
+                "date": "10-09-2021",
+                "score": "0"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "0"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "0"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "0"
+            }
+        ]
+    },
+    "design-pattern-17-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-17-official/ojquestion",
+        "submissions": [
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-18-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-18-official/ojquestion",
+        "submissions": [
+            {
+                "date": "12-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-19-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-19-official/ojquestion",
+        "submissions": [
+            {
+                "date": "11-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            }
+        ]
+    },
+    "design-pattern-20-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-20-official/ojquestion",
+        "submissions": [
+            {
+                "date": "11-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "10"
+            },
+            {
+                "date": "10-09-2021",
+                "score": "8"
+            }
+        ]
+    },
+    "pattern-m-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-m-official/ojquestion",
+        "submissions": []
+    },
+    "inverted-hour-glass-official": {
+        "link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/inverted-hour-glass-official/ojquestion",
+        "submissions": []
+    }
+}
